@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Website 👋</h1>
+<h1 align="center">Welcome to byZero's Website 👋</h1>
 <p>
   <a href="#" target="_blank">
     <img alt="License: Custom License" src="https://img.shields.io/badge/License-Custom License-yellow.svg" />

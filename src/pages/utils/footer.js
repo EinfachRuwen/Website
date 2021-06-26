@@ -23,7 +23,7 @@ class Footer extends React.Component {
                     <img alt="" src="./image/icon_reddit.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_reddit" onclick="window.open('https://byzer0.ml/reddit')" /> 
                     <img alt="" src="./image/icon_donate.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_donate" onclick="window.open('https://byzer0.ml/donate')" />
                 </div>
-                &copy; 2021 <a href="https://byzero.ml" className="cursor-pointer transition duration-200 hover:text-blue-500 text-blue-300">byZero</a> | Made with byZero's Website Generator
+                &copy; 2021 <a href="https://byzero.ml" className="cursor-pointer transition duration-200 hover:text-blue-500 text-blue-300">byZero</a> | Made with <a href="https://byzer0.ml/generator" className="cursor-pointer transition duration-200 hover:text-blue-500 text-blue-300">byZero's Website Generator</a>
             </footer>
         )
     }

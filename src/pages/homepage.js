@@ -5,13 +5,11 @@ import './utils/main.css'
 class Card extends React.Component {
     render() {
         return (
-            <div class="bg-gray-100 cursor-pointer transition duration-200 ease rounded-lg bg-gray-900 hover:shadow-xl p-5 content-around" onClick={() => window.location.href = this.props.data.url}>
+            <div class="bg-gray-100 cursor-pointer transition duration-200 ease rounded-lg bg-gray-900 hover:shadow-2xl p-5 content-around" onClick={() => window.location.href = this.props.data.url}>
                 <div class="flex">
                     <img alt="" src={this.props.data.image} class="rounded-md w-10 h-10" /><span class="font-bold ml-3 mt-2">{this.props.data.name}</span>
                 </div>
-                <p class="text-gray-400 mt-2">
-                    {this.props.data.description}
-                </p>
+                <p class="text-gray-400 mt-2" dangerouslySetInnerHTML={{__html: this.props.data.description}} />
                 <p class="text-blue-300 mt-2">
                     {this.props.data.url.split("https://").join(" ").split("http://").join(" ")}
                 </p>

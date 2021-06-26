@@ -44,7 +44,7 @@
             }, {
                 "name": "Status",
                 "image": "./image/uptimerobot.png",
-                "description": "Overview of the status of each individual system, such as Webmail, ZeroBot etc.",
+                "description": "Overview of the status of each individual system, such as Webmail, ZeroBot etc.<br><span style=\"color: transparent; user-select: none;\">.</span>",
                 "url": "https://status.zer0network.xyz"
             }, {
                 "name": "Wanna make your own Website?",

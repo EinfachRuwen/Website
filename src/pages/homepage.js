@@ -7,7 +7,7 @@ class Card extends React.Component {
         return (
             <div class="bg-gray-100 cursor-pointer transition duration-200 ease rounded-lg bg-gray-900 hover:shadow-xl p-5 content-around" onClick={() => window.location.href = this.props.data.url}>
                 <div class="flex">
-                    <img alt="" src={this.props.data.image} class="rounded-full w-10 h-10" /><span class="font-bold ml-3 mt-2">{this.props.data.name}</span>
+                    <img alt="" src={this.props.data.image} class="rounded-md w-10 h-10" /><span class="font-bold ml-3 mt-2">{this.props.data.name}</span>
                 </div>
                 <p class="text-gray-400 mt-2">
                     {this.props.data.description}
@@ -39,6 +39,8 @@ class Homepage extends React.Component {
                             <p className="text-gray-400 md:w-2/3" dangerouslySetInnerHTML={{__html: config.customization.aboutme}} />
                         </div>
                     </> : <></>}
+
+                    <iframe src="https://lanyard-profile-readme.vercel.app/api/390965278470569985" width="430px" height="220px" className="rounded-lg mt-20 mx-auto select-none" title=""></iframe>
 
                     <div id="list" className="pt-20">
                         {config.customization.cards.map(e => <Card data={e} />)}

@@ -1,17 +1,16 @@
 {
     "meta": {
-        "og:description": "Hello, my name is Flamex. I'm a german fullstack developer",
-        "og:title": "Flamex",
+        "og:description": "13y/o || Minecraft-YouTuber, Streamer and Developer",
+        "og:title": "byZero",
         "og:type": "website",
-        "og:site_name": "Flamex | Fullstack developer",
-        "og:image": "https://avatars.githubusercontent.com/u/68353308?v=4",
+        "og:site_name": "byZero | Website",
+        "og:image": "https",
         "og:url": "https://flamex.dev",
         "theme-color": "#f07171",
         "browser-title": "Flamex | Fullstack developer",
         "favicon": "https://cdn.discordapp.com/attachments/774774383918186526/858284104646262794/tenor.gif"
     },
     "customization": {
-        "name": "Flamex",
         "image": "https://avatars.githubusercontent.com/u/68353308?v=4",
         "title": "Flamex",
         "subtitle": "Fullstack developer",

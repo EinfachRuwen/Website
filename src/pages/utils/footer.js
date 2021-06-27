@@ -11,7 +11,6 @@ class Footer extends React.Component {
                     <img alt="" src="./image/icon_github.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_patreon" onclick="window.open('https://byzer0.ml/github')" /> 
                     <img alt="" src="./image/icon_twitch.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_youtube" onclick="window.open('https://byzer0.ml/twitch')" /> 
                     <img alt="" src="./image/icon_mail.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_reddit" onclick="window.open('mailto:business@byzero.ml')" />
-
                     <img alt="" src="./image/icon_twitter.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_twitter" onclick="window.open('https://byzer0.ml/twitter')" /> 
                     <img alt="" src="./image/icon_patreon.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_patreon" onclick="window.open('https://byzer0.ml/patreon')" /> 
                     <img alt="" src="./image/icon_youtube.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_youtube" onclick="window.open('https://byzer0.ml/yt')" /> 

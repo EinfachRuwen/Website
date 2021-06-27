@@ -38,7 +38,7 @@ class Homepage extends React.Component {
                         </div>
                     </> : <></>}
 
-                    <iframe title="discord status" src="https://lanyard-profile-readme.vercel.app/api/390965278470569985" width="430px" height="220px" className="rounded-lg mt-20 mx-auto select-none"></iframe>
+                    <iframe title="discord status" src="https://lanyard-profile-readme.vercel.app/api/390965278470569985" width="430px" height="220px" className="rounded-lg mt-20 md:mx-auto select-none scale-75 md:scale-100 transform -ml-12 -mb-20 md:mb-0"></iframe>
 
                     <div id="list" className="pt-20">
                         {config.customization.cards.map(e => <Card data={e} />)}

@@ -30,10 +30,10 @@
         },
         "cards": [
             {
-                "name": "Mr. Robot",
-                "image": "./image/mr-robot.jpg",
-                "description": "A show that I am currently watching. I would say it's my favorite show, because Mr. Robot is really a masterpiece.",
-                "url": "https://zerobot.ml/B7Lvyk"
+                "name": "Library of unreleased deadmau5 songs",
+                "image": "https://deadmau5.ml/cover.png",
+                "description": "There are many songs that deadmau5 has not released but you can find on the Internet. There you can find all the songs that I found.",
+                "url": "https://deadmau5.ml"
             }, {
                 "name": "ZeroBot",
                 "image": "./image/ZeroBot.png",

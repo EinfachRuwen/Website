@@ -1,6 +1,6 @@
 {
     "meta": {
-        "og:description": "13y/o || Minecraft-YouTuber, Streamer and Developer",
+        "og:description": "Linux-User and Hobby-Dev",
         "og:title": "byZero",
         "og:type": "website",
         "og:site_name": "byZero | Website",
@@ -13,7 +13,7 @@
     "customization": {
         "image": "https://byzero.ml/image/me.gif",
         "title": "byZero",
-        "subtitle": "13y/o || Minecraft-YouTuber, Streamer and Developer",
+        "subtitle": "Linux-User and Hobby-Dev",
         "aboutme": "Hi there 👋, my name is <b>byZero</b> <br>I'm a german developer and my hobbies are swimming, programming, listening to music, playing video games and much more. I started developing about 1 year ago. In this time I gained experience with <b>Python</b>, <b>HTML</b> and <b>Java</b>.<br>Below you can see some of my current and past projects",
         "header": {
             "name": "byZero",

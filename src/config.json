@@ -45,6 +45,11 @@
                 "description": " A cover plan app for my old school to display the cover plans in a mobile version and secure everything with an SSL certificate.",
                 "url": "https://kghalle.tk"
             }, {
+                "name": "ZeroNetwork | Space",
+                "image": "https://i.imgur.com/JS1anlo.png",
+                "description": "This space is for the community of byZero. Here you can talk, chat and have fun with other people. ",
+                "url": "https://zer0network.xyz/matrix"
+            }, {
                 "name": "Status",
                 "image": "./image/uptimerobot.png",
                 "description": "Overview of the status of each individual system, such as Webmail, ZeroBot etc.<br><span style=\"color: transparent; user-select: none;\">.</span>",

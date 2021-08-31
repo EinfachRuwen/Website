@@ -59,8 +59,12 @@
                 "image": "./image/web.png",
                 "description": "Use my Website-Generator and create Websites in just 5 Minutes.",
                 "url": "https://byzer0.ml/generator"
+            }, {
+                "name": "Blog",
+                "image": "https://i.imgur.com/qHhrbKC.png",
+                "description": "Visit my Blog",
+                "url": "https://blog.byzero.ml"
             }
-
         ],
         "socials": {
             "discord": "https://discord.com/users/390965278470569985",

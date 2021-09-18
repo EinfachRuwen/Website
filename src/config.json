@@ -20,25 +20,17 @@
             "image": "https://byzero.ml/image/me.gif",
             "links": [
                 {
-                    "url": "https://byzer0.ml/dc",
-                    "title": "Discord-Server"
-                }, {
-                    "url": "https://old.byzero.ml/",
-                    "title": "View Old Website"
+                    "url": "https://hosting.byzero.dev",
+                    "title": "Hosting"
                 }
             ]
         },
         "cards": [
             {
-                "name": "Library of unreleased deadmau5 songs",
-                "image": "https://deadmau5.ml/cover.png",
-                "description": "There are many songs that deadmau5 has not released but you can find on the Internet. There you can find all the songs that I found.",
-                "url": "https://deadmau5.ml"
-            }, {
-                "name": "ZeroBot",
-                "image": "./image/ZeroBot.png",
-                "description": "My Discord bot written in Discord.py, as a bot for funny commands but also for moderators to make their server a bit more secure.",
-                "url": "https://zerobot.ml"
+                "name": "Hosting",
+                "image": "https://hosting.byzero.dev/images/hosting.byzero.dev.png",
+                "description": "Here are a few services I host.",
+                "url": "https://hosting.byzero.dev"
             }, {
                 "name": "KGH-Vertretungsplan-App",
                 "image": "./image/kgh.png",

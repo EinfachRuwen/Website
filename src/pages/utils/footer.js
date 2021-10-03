@@ -9,7 +9,7 @@ class Footer extends React.Component {
                 <div className="flex items-center md:px-10 px-3">
                     <img alt="" src="https://element.io/images/logo-mark-primary.svg" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_matrix" onClick={() => window.open('https://byzer0.ml/matrix')} />
                     <img alt="" src="./image/icon_github.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_patreon" onClick={() => window.open('https://byzer0.ml/github')} /> 
-                    <img alt="" src="./image/icon_mail.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_reddit" onClick={() => window.open('mailto:business@byzero.ml')} />
+                    <img alt="" src="./image/icon_mail.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_reddit" onClick={() => window.open('mailto:mail@byzero.ml')} />
                     <img alt="" src="./image/icon_twitter.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_twitter" onClick={() => window.open('https://byzer0.ml/twitter')} /> 
                     <img alt="" src="./image/icon_patreon.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_patreon" onClick={() => window.open('https://byzer0.ml/patreon')} /> 
                     <img alt="" src="./image/icon_youtube.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_youtube" onClick={() => window.open('https://byzer0.ml/yt')} /> 

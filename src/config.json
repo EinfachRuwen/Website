@@ -35,12 +35,17 @@
                 "name": "KGH-Vertretungsplan-App",
                 "image": "./image/kgh.png",
                 "description": " A cover plan app for my old school to display the cover plans in a mobile version and secure everything with an SSL certificate.",
-                "url": "https://kghalle.tk"
+                "url": "https://kgh.byzero.dev"
             }, {
                 "name": "ZeroNetwork | Space",
                 "image": "https://i.imgur.com/JS1anlo.png",
                 "description": "This space is for the community of byZero. Here you can talk, chat and have fun with other people. ",
                 "url": "https://zer0network.xyz/matrix"
+            }, {
+                "name": "StopUsingComicSans",
+                "image": "https://sucs.byzero.dev/img/logo-white.png",
+                "description": "Please just stop.",
+                "url": "https://sucs.byzero.dev"
             }, {
                 "name": "Status",
                 "image": "./image/uptimerobot.png",

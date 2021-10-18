@@ -37,6 +37,11 @@
                 "description": " A cover plan app for my old school to display the cover plans in a mobile version and secure everything with an SSL certificate.",
                 "url": "https://kgh.byzero.dev"
             }, {
+                "name": "Counter",
+                "image": "https://counter.byzero.dev/brand/assets/Vector/logo.svg",
+                "description": "A Counter App. The name explains everything, that you need to know.",
+                "url": "https://counter.byzero.dev/github"
+            }, {
                 "name": "ZeroNetwork | Space",
                 "image": "https://i.imgur.com/JS1anlo.png",
                 "description": "This space is for the community of byZero. Here you can talk, chat and have fun with other people. ",

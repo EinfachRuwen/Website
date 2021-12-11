@@ -60,7 +60,7 @@
                 "name": "Wanna make your own Website?",
                 "image": "./image/web.png",
                 "description": "Use my Website-Generator and create Websites in just 5 Minutes.",
-                "url": "https://byzer0.ml/generator"
+                "url": "https://by0.link/generator"
             }, {
                 "name": "Blog",
                 "image": "https://i.imgur.com/qHhrbKC.png",
@@ -70,8 +70,8 @@
         ],
         "socials": {
             "discord": "https://discord.com/users/390965278470569985",
-            "github": "https://byzer0.ml/github",
-            "twitch": "https://byzer0.ml/twitch",
+            "github": "https://by0.link/github",
+            "twitch": "https://by0.link/twitch",
             "email": "business@byzero.ml"
         }
     }

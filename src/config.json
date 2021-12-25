@@ -1,23 +1,23 @@
 {
     "meta": {
-        "og:description": "Linux-User and Hobby-Dev",
-        "og:title": "byZero",
+        "og:description": "junger Pirat | Privacy enthusiast | Linux-User and Dev",
+        "og:title": "byZero 🏳️‍🌈",
         "og:type": "website",
-        "og:site_name": "byZero | Website",
-        "og:image": "https://byzero.ml/image/me.gif",
-        "og:url": "https://byzero.ml",
+        "og:site_name": "byZero 🏳️‍🌈 | Website",
+        "og:image": "https://byzero.dev/image/me.gif",
+        "og:url": "https://byzero.dev",
         "theme-color": "#f07171",
-        "browser-title": "byZero | Website",
-        "favicon": "https://byzero.ml/image/me.gif"
+        "browser-title": "byZero 🏳️‍🌈 | Website",
+        "favicon": "https://byzero.dev/image/me.gif"
     },
     "customization": {
-        "image": "https://byzero.ml/image/me.gif",
-        "title": "byZero",
-        "subtitle": "Linux-User and Hobby-Dev",
-        "aboutme": "Hi there 👋, my name is <b>byZero</b> <br>I'm a german developer and my hobbies are swimming, programming, listening to music, playing video games and much more. I started developing about 1 year ago. In this time I gained experience with <b>Python</b>, <b>HTML</b> and <b>Java</b>.<br>Below you can see some of my current and past projects",
+        "image": "https://byzero.dev/image/me.gif",
+        "title": "byZero 🏳️‍🌈",
+        "subtitle": "junger Pirat | Privacy enthusiast | Linux-User and Dev",
+        "aboutme": "Hi there 👋, my name is <b>byZero</b> <br>I'm a german developer and my hobbies are swimming, programming, listening to music, playing video games and much more. I started developing about 2 years ago. In this time I gained experience with <b>Python</b>, <b>HTML</b> and <b>Java</b>.<br>Below you can see some of my current and past projects",
         "header": {
             "name": "byZero",
-            "image": "https://byzero.ml/image/me.gif",
+            "image": "https://byzero.dev/image/me.gif",
             "links": [
                 {
                     "url": "https://hosting.byzero.dev",
@@ -72,7 +72,7 @@
             "discord": "https://discord.com/users/390965278470569985",
             "github": "https://by0.link/github",
             "twitch": "https://by0.link/twitch",
-            "email": "business@byzero.ml"
+            "email": "mail@byzero.dev"
         }
     }
 }

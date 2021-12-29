@@ -28,9 +28,9 @@
         "cards": [
             {
                 "name": "Chat",
-                "image": "https://chat.byzero.dev/cdn/message.png",
+                "image": "https://byzero.dev/chat/cdn/message.png",
                 "description": "Here are some ways to contact me. For example: Matrix, Briar or E-Mail.",
-                "url": "https://chat.byzero.dev"
+                "url": "https://byzero.dev/chat"
             }, {
                 "name": "Hosting",
                 "image": "https://hosting.byzero.dev/images/hosting.byzero.dev.png",

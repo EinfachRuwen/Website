@@ -22,6 +22,9 @@
                 {
                     "url": "https://hosting.byzero.dev",
                     "title": "Hosting"
+                }, {
+                    "url": "https://blog.byzero.ml",
+                    "title": "Blog"
                 }
             ]
         },
@@ -31,11 +34,6 @@
                 "image": "https://byzero.dev/chat/cdn/message.png",
                 "description": "Here are some ways to contact me. For example: Matrix, Briar or E-Mail.",
                 "url": "https://byzero.dev/chat"
-            }, {
-                "name": "Hosting",
-                "image": "https://hosting.byzero.dev/images/hosting.byzero.dev.png",
-                "description": "Here are a few services I host.",
-                "url": "https://hosting.byzero.dev"
             }, {
                 "name": "KGH-Vertretungsplan-App",
                 "image": "./image/kgh.png",
@@ -47,10 +45,10 @@
                 "description": "A Counter App. The name explains everything, that you need to know.",
                 "url": "https://counter.byzero.dev/github"
             }, {
-                "name": "ZeroNetwork | Space",
-                "image": "https://i.imgur.com/JS1anlo.png",
-                "description": "This space is for the community of byZero. Here you can talk, chat and have fun with other people. ",
-                "url": "https://zer0network.xyz/matrix"
+                "name": "Space",
+                "image": "./image/space.png",
+                "description": "This space is for the community of byZero. Here you can talk, chat and have fun with other people.",
+                "url": "https://by0.link/space"
             }, {
                 "name": "StopUsingComicSans",
                 "image": "https://sucs.byzero.dev/img/logo-white.png",
@@ -66,11 +64,6 @@
                 "image": "./image/web.png",
                 "description": "Use my Website-Generator and create Websites in just 5 Minutes.",
                 "url": "https://by0.link/generator"
-            }, {
-                "name": "Blog",
-                "image": "https://i.imgur.com/qHhrbKC.png",
-                "description": "Visit my Blog",
-                "url": "https://blog.byzero.ml"
             }
         ],
         "socials": {

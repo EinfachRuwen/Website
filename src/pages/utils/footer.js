@@ -16,7 +16,7 @@ class Footer extends React.Component {
                     <img alt="" src="https://generat0r.byzero.dev/protonmail.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_protonmail" onClick={() => window.open('mailto:mail.byzero@protonmail.com')} /> 
                     <img alt="" src="https://generat0r.byzero.dev/liberapay.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_donate" onClick={() => window.open('https://by0.link/donate')} />
                 </div>
-                &copy; 2022 <a href="https://byzero.dev" className="cursor-pointer transition duration-200 hover:text-blue-500 text-blue-300">byZero</a> | Made with <a href="https://by0.link/generator" className="cursor-pointer transition duration-200 hover:text-blue-500 text-blue-300">byZero's Website Generator</a>
+                &copy; 2022 <a href="https://byzero.dev" className="cursor-pointer transition duration-200 hover:text-blue-500 text-blue-300">byZero</a> | Made with <a href="https://by0.link/generator" className="cursor-pointer transition duration-200 hover:text-blue-500 text-blue-300">byZero's Website Generator</a>&nbsp;|&nbsp;<a href="https://byzero.dev/imprint" className="cursor-pointer transition duration-200 hover:text-blue-500 text-blue-300">Imprint</a>
             </footer>
         )
     }

@@ -8,7 +8,8 @@ class Footer extends React.Component {
                 {JSON.stringify(config.customization.socials) !== "{}" ? <div className="text-left md:ml-10 ml-5 text-gray-500">Find me on</div> : <></>}
                 <div className="flex items-center md:px-10 px-3">
                     <img alt="" src="https://generat0r.byzero.dev/matrix.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_matrix" onClick={() => window.open('https://by0.link/msg')} />
-                    <img alt="" src="https://generat0r.byzero.dev/github.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_patreon" onClick={() => window.open('https://by0.link/github')} /> 
+                    <img alt="" src="https://generat0r.byzero.dev/odysee.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_odysee" onClick={() => window.open('https://by0.link/odysee')} /> 
+                    <img alt="" src="https://generat0r.byzero.dev/github.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_gh" onClick={() => window.open('https://by0.link/github')} /> 
                     <img alt="" src="https://generat0r.byzero.dev/mail.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_reddit" onClick={() => window.open('https://by0.link/mail')} />
                     <img alt="" src="https://generat0r.byzero.dev/twitter.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_twitter" onClick={() => window.open('https://by0.link/twitter')} />  
                     <img alt="" src="https://generat0r.byzero.dev/pixelfed.png" className="inline-block rounded-lg w-10 h-10 cursor-pointer mr-2" id="icon_pixelfed" onClick={() => window.open('https://by0.link/pixelfed')} /> 

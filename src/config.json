@@ -35,6 +35,11 @@
                 "description": "Here are some ways to contact me. For example: Matrix, Briar or E-Mail.",
                 "url": "https://byzero.dev/chat"
             }, {
+                "name": "Wanna make your own Website?",
+                "image": "https://pbs.twimg.com/profile_images/1479842009921765384/tAddFFSG_400x400.jpg",
+                "description": "With WebsiteGenerator you can easily generate web pages in the terminal. Make a Website in just 5 Minutes!",
+                "url": "https://by0.link/generator"
+            }, {
                 "name": "KGH-Vertretungsplan-App",
                 "image": "./image/kgh.png",
                 "description": " A cover plan app for my old school to display the cover plans in a mobile version and secure everything with an SSL certificate.",
@@ -59,11 +64,6 @@
                 "image": "./image/uptimerobot.png",
                 "description": "Overview of the status of each individual system, such as Webmail, ZeroBot etc.<br><span style=\"color: transparent; user-select: none;\">.</span>",
                 "url": "https://status.zer0network.xyz"
-            }, {
-                "name": "Wanna make your own Website?",
-                "image": "./image/web.png",
-                "description": "Use my Website-Generator and create Websites in just 5 Minutes.",
-                "url": "https://by0.link/generator"
             }
         ],
         "socials": {

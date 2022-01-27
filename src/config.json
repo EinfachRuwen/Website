@@ -14,7 +14,7 @@
         "image": "https://byzero.dev/image/me.gif",
         "title": "byZero 🏳️‍🌈",
         "subtitle": "junger Pirat | Privacy enthusiast | Linux-User and Dev",
-        "aboutme": "Hi there 👋, my name is <b>byZero</b> <br>I'm a german developer and my hobbies are swimming, programming, listening to music, playing video games and much more. I started developing about 2 years ago. In this time I gained experience with <b>Python</b>, <b>HTML</b> and <b>Java</b>.<br>Below you can see some of my current and past projects",
+        "aboutme": "Hi there 👋, my name is <b>byZero</b> <br>I'm a German developer and my hobbies are swimming, programming, listening to music, playing video games and much more. I started developing about 2 years ago. In this time I gained experience with <b>Python</b>, <b>HTML</b> and <b>Java</b>.<br>Below you can see some of my current and past projects",
         "header": {
             "name": "byZero",
             "image": "https://byzero.dev/image/me.gif",
@@ -34,6 +34,11 @@
                 "image": "https://byzero.dev/chat/cdn/message.png",
                 "description": "Here are some ways to contact me. For example: Matrix, Briar or E-Mail.",
                 "url": "https://byzero.dev/chat"
+            }, {
+                "name": "Wanna make your own Website?",
+                "image": "https://pbs.twimg.com/profile_images/1479842009921765384/tAddFFSG_400x400.jpg",
+                "description": "With WebsiteGenerator you can easily generate web pages in the terminal. Make a Website in just 5 Minutes!",
+                "url": "https://by0.link/generator"
             }, {
                 "name": "KGH-Vertretungsplan-App",
                 "image": "./image/kgh.png",
@@ -59,11 +64,6 @@
                 "image": "./image/uptimerobot.png",
                 "description": "Overview of the status of each individual system, such as Webmail, ZeroBot etc.<br><span style=\"color: transparent; user-select: none;\">.</span>",
                 "url": "https://status.zer0network.xyz"
-            }, {
-                "name": "Wanna make your own Website?",
-                "image": "./image/web.png",
-                "description": "Use my Website-Generator and create Websites in just 5 Minutes.",
-                "url": "https://by0.link/generator"
             }
         ],
         "socials": {

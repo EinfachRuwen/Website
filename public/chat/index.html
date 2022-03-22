@@ -72,19 +72,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Chat with me</title>                                      <!-- Put your Website Name here-->
         <link rel="shortcut icon" href="./chat/cdn/message.png" type="image/x-icon">
-	<script>
-	function myFunction() {
-	  /* Get the text field */
-	  var copyText = document.getElementById("myInput");
-
-	  /* Select the text field */
-	  copyText.select();
-	  copyText.setSelectionRange(0, 99999); /* For mobile devices */
-
-	   /* Copy the text inside the text field */
-	  navigator.clipboard.writeText(copyText.value);
-	} 
-	</script>
     </head>
     <body class="pt-40 p-0 bg-gray-900 text-white">
 
@@ -145,9 +132,22 @@
                 </p>
             </div>
 
-<div class="card bg-gray-100 rounded-lg bg-gray-800 hover:shadow-xl p-5 content-around" onclick="myFunction()">   <!-- Put your Website Link here-->
+	<div class="card bg-gray-100 rounded-lg bg-gray-800 hover:shadow-xl p-5 content-around" onclick="myFunction()"> 
+		<script>
+		function myFunction() {
+		  /* Get the text field */
+		  var copyText = document.getElementById("myInput");
+
+		  /* Select the text field */
+		  copyText.select();
+		  copyText.setSelectionRange(0, 99999); /* For mobile devices */
+
+		   /* Copy the text inside the text field */
+		  navigator.clipboard.writeText(copyText.value);
+		} 
+		</script>
                 <div class="flex">
-                    <img src="./cdn/Signal-Logo.svg" class="rounded-lg w-10 h-10"><span class="font-bold ml-3 mt-2">Signal</span> <!-- Put your Fiel image and your field name Link here-->
+                    <img src="./chat/cdn/Signal-Logo.svg" class="rounded-lg w-10 h-10"><span class="font-bold ml-3 mt-2">Signal</span> <!-- Put your Fiel image and your field name Link here-->
                 </div>
                 <p class="font-mono text-gray-400 mt-2">
                     Signal is a cross-platform centralized encrypted instant messaging service developed by the non-profit Signal Foundation and Signal Messenger LLC. <!-- Put your Description here-->
@@ -155,8 +155,8 @@
                 <p class="font-mono text-blue-300 mt-2" id="myInput">
                     +4915233922726      <!-- Put your Link here-->
                 </p>
-            </div>
-
+          </div>
+		
 <div class="card bg-gray-100 rounded-lg bg-gray-800 hover:shadow-xl p-5 content-around" onclick="window.open('https://by0.link/mail')">   <!-- Put your Website Link here-->
                 <div class="flex">
                     <img src="https://byzero.dev/image/icon_mail.png" class="rounded-lg w-10 h-10"><span class="font-bold ml-3 mt-2">Mail</span> <!-- Put your Fiel image and your field name Link here-->

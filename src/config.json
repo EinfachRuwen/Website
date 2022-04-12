@@ -40,6 +40,11 @@
                 "description": "With WebsiteGenerator you can easily generate web pages in the terminal. Make a Website in just 5 Minutes!",
                 "url": "https://by0.link/generator"
             }, {
+                "name": "Drop some files",
+                "image": "https://0cdn.tixte.co/r/cloud-uploads.png",
+                "description": "Drop some files for me but please inform me, what you wanted to upload",
+                "url": "https://by0.link/drop"
+            }, {
                 "name": "KGH-Vertretungsplan-App",
                 "image": "./image/kgh.png",
                 "description": " A cover plan app for my old school to display the cover plans in a mobile version and secure everything with an SSL certificate.",

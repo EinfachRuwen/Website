@@ -4,20 +4,20 @@
         "og:title": "byZero 🏳️‍🌈",
         "og:type": "website",
         "og:site_name": "byZero 🏳️‍🌈 | Website",
-        "og:image": "https://byzero.dev/image/me.png",
+        "og:image": "./image/me.png",
         "og:url": "https://byzero.dev",
         "theme-color": "#f07171",
         "browser-title": "byZero 🏳️‍🌈 | Website",
-        "favicon": "https://byzero.dev/image/me.png"
+        "favicon": "./image/me.png"
     },
     "customization": {
-        "image": "https://byzero.dev/image/me.png",
+        "image": "./image/me.png",
         "title": "byZero 🏳️‍🌈",
         "subtitle": "junger Pirat | Privacy enthusiast | Linux-User and Dev",
         "aboutme": "Hi there 👋, my name is <b>byZero</b> <br>I'm a German developer and my hobbies are swimming, programming, listening to music, playing video games and much more. I started developing about 2 years ago. In this time I gained experience with <b>Python</b>, <b>HTML</b> and <b>Java</b>.<br>Below you can see some of my current and past projects",
         "header": {
             "name": "byZero",
-            "image": "https://byzero.dev/image/me.gif",
+            "image": "./image/me.png",
             "links": [
                 {
                     "url": "https://hosting.byzero.dev",

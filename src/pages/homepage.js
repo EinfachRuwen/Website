@@ -24,7 +24,7 @@ class Homepage extends React.Component {
             <div>
                 <div className="md:px-40 md:py-20 px-4 py-5">
                     <div className="flex items-center">
-                        <img alt="" src={config.customization.image} className="w-40 rounded-full mr-10" />
+                        <img alt="" src={config.customization.image} className="w-40 rounded-lg mr-10" />
                         <div>
                             <h1 className="text-3xl font-bold mb-3">{config.customization.title}</h1>
                             <p className="text-sm font-bold text-gray-500">{config.customization.subtitle}</p>

@@ -16,7 +16,7 @@ class Header extends React.Component {
         return (
             <header className="m-0 w-screen bg-gray-900 px-10 py-4 shadow-lg">
                 <div className="flex items-center">
-                    <img alt="" src={config.customization.header.image} className="w-10 mr-5 rounded-full" /> <span className="font-bold">{config.customization.header.name}</span>
+                    <img alt="" src={config.customization.header.image} className="w-10 mr-5 rounded-lg" /> <span className="font-bold">{config.customization.header.name}</span>
                 </div>
                 <div className="">
                     {config.customization.header.links.reverse().map(e => <Link link={e} />)}
